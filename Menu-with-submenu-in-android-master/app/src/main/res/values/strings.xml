@@ -1,0 +1,123 @@
+<resources>
+    <string name="app_name">BOBs Pizza</string>
+
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="BOBS_PIZZA">BOB\'s PIZZA</string>
+
+    <string-array name="State">
+        <item>Gampaha</item>
+        <item>Colombo</item>
+    </string-array>
+
+    <string-array name="shipper">
+        <item>Shipper 1</item>
+        <item>Shipper 2</item>
+    </string-array>
+
+    <string-array name="DishName">
+        <item>Pizza</item>
+        <item>Buriyani Rice</item>
+        <item>Kottu</item>
+        <item>Fried Rice</item>
+        <item>Chiken Pizza</item>
+        <item>Vegan Pizza</item>
+        <item>Peporoni Pizza</item>
+
+    </string-array>
+
+    //
+
+    <string name="wecomePageTopic">Bob\'s Pizza</string>
+    <string name="welcomepageButton1">Log in with Account</string>
+    <string name="welcome_Guest">Continue as guest</string>
+    <string name="weclocome_google">Sign in with Google</string>
+    <string name="LogIn">Login</string>
+    <string name="SignUp">SignUp</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="EmialHint">jvenum160@gamil.com</string>
+    <string name="HintPassword">Password</string>
+    <string name="ForgotPass">Forgot password?</string>
+    <string name="ForgetMassage">We will send you a message to set or reset rour new password</string>
+    <string name="SendCodeHint">Send code</string>
+    <string name="EnterEmailHint">Enter your email address</string>
+    <string name="AlreadyMember">Already a member? Login</string>
+    <string name="Registertext">Register</string>
+    <string name="NameHint">Name</string>
+    <string name="NumberHint">Number</string>
+    <string name="AddressNum">Add Numr</string>
+    <string name="StreetNumHint">Streer Number</string>
+    <string name="Username">T.K.G.Dharmasiri</string>
+    <string name="emaildumy">gihan222@gmail.com</string>
+    <string name="StreetNumDummy">49/133,N,</string>
+    <string name="StreetAdress">Thiththalapitigoda,,Yakkala</string>
+    <string name="SideBar">SideBar</string>
+    <string name="Cart">Cart</string>
+    <string name="user">User</string>
+    <string name="MasalaMagic">Masala Magic</string>
+    <string name="MasalaDes">It is the secret ingredient that makes your everyday vegetables extraordinarily tasty. Now your kids will fall in love with everyday vegetable</string>
+    <string name="AddIngredients">Add Ingredients</string>
+    <string name="Small">Small RS.1000</string>
+    <string name="Medium">Medium Rs.1500</string>
+    <string name="Large">Large RS.2500</string>
+    <string name="AddtoCart">Add to Cart</string>
+    <string name="FoodAdminDashBoard">Food Admin DashBoard</string>
+    <string name="AddDiscrption">Add Discrption</string>
+    <string name="TypeHere">Type Here.....</string>
+    <string name="Save">Save</string>
+    <string name="Discription">Discription</string>
+    <string name="OrderDetail">Food Number -p003</string>
+    <string name="Update">Update</string>
+    <string name="Delete">Delete</string>
+    <string name="Home">Home</string>
+    <string name="PaymentMethods">Payment Methods</string>
+    <string name="UserFeedback">User Feedback</string>
+    <string name="UserOrders">User Orders</string>
+    <string name="Logout">Log out</string>
+    <string name="masalamajic">Masala Majic</string>
+    <string name="rs1500">RS.15000</string>
+    <string name="select">----------Select Your Food----------</string>
+
+    <string name="p1">Paneer Pizza</string>
+    <string name="p2">Neapolitan Pizza</string>
+    <string name="p3">NewYork Pizza</string>
+    <string name="p4">Sicilian Pizza</string>
+    <string name="p5">Greek Pizza</string>
+    <string name="p6">California Pizza</string>
+    <string name="p7">Detroit Pizza</string>
+    <string name="p8">Louis Pizza</string>
+    <string name="p9"> Margherita Pizza</string>
+    <string name="p10">Masala Pizza</string>
+
+
+    <string name="des1">If you bake Pizza on high heat.It will stay firm even if you bake Pizza on high heat</string>
+    <string name="des2">Neapolitan is a delicious pie dates all the way back to 18th century in Naples</string>
+    <string name="des3">New York-style pizza is one of America’s most famous regional pizza types. </string>
+    <string name="des4">Sicilian pizza, also known as "sfincione," provides a thick cut of pizza with pillowy dough</string>
+    <string name="des5">Created by Greek immigrants who came to America and were introduced to Italian pizza</string>
+    <string name="des6">California pizza, or gourmet pizza, is known for its unusual ingredients</string>
+    <string name="des7">Detroit-style pizza was originally baked in a square automotive parts pan in the 1940’s</string>
+    <string name="des8">Louis pizza features a thin crust with a cracker-like consistency that is made without yeast</string>
+    <string name="des9"> Cheap, delicious, filling, and, boy oh boy, does it go well with rum or wine!</string>
+    <string name="des10">Salame contains tomato sauce, mozzarella, and Italian salami</string>
+
+
+    <string name="pr1">Rs.1500</string>
+    <string name="pr2">Rs.2500</string>
+    <string name="pr3">Rs.2000</string>
+    <string name="pr4">Rs.1600</string>
+    <string name="pr5">Rs.1700</string>
+    <string name="pr6">Rs.1500</string>
+    <string name="pr7">Rs.1300</string>
+    <string name="pr8">Rs.1100</string>
+    <string name="pr9">Rs.1900</string>
+    <string name="pr10">Rs.2500</string>
+
+
+
+
+
+
+
+</resources>

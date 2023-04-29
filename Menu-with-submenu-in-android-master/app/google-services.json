@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "933555683195",
+    "firebase_url": "https://bob-s-pizza-default-rtdb.firebaseio.com",
+    "project_id": "bob-s-pizza",
+    "storage_bucket": "bob-s-pizza.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933555683195:android:ba4dc2007bf738222247de",
+        "android_client_info": {
+          "package_name": "com.example.menuwithsubmenu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "933555683195-islbcrmfovv3trqt2ombr9mc4bikg0ko.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.menuwithsubmenu",
+            "certificate_hash": "6690380272ce5a34019a84bd372ab844916ac662"
+          }
+        },
+        {
+          "client_id": "933555683195-htsscb014s34bns4pugjh0ubcj434en9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfS4kBTr_6uwgGNbIVFpzYyt4G_07orCs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "933555683195-htsscb014s34bns4pugjh0ubcj434en9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

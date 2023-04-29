@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/back1">
+
+
+    <Button
+        android:id="@+id/post_dish"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="48dp"
+        android:background="@drawable/btnred"
+        android:padding="10dp"
+        android:shadowColor="@color/Black"
+        android:shadowRadius="10"
+        android:text="Add a Food Item"
+
+        android:textColor="@color/white"
+
+        android:textSize="24sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textVsdsddsdsiew9" />
+
+    <TextView
+        android:id="@+id/texfdftView6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="108dp"
+        android:fontFamily="@font/acme"
+        android:text="Follow Those Steps"
+        android:textSize="42dp"
+        android:textColor="@color/Black"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.107"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="168dp"
+        android:text="As a manager You can upload Dish images and descrption for the app"
+        android:textSize="20sp"
+        android:layout_marginLeft="30dp"
+        android:textColor="@color/gray"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="@+id/texfdftView6"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textView8"
+        android:layout_marginLeft="30dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="228dp"
+        android:text="Be care full when you upload these Details.You must fill those details"
+        android:textSize="20sp"
+        android:textColor="@color/gray"
+        app:layout_constraintStart_toStartOf="@+id/textView6"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <LinearLayout
+        android:id="@+id/linearLayout2"
+        android:layout_width="181dp"
+        android:layout_height="132dp"
+        android:layout_marginTop="28dp"
+        android:orientation="vertical"
+        app:layout_constraintStart_toStartOf="@+id/textView8"
+        app:layout_constraintTop_toBottomOf="@+id/textView8">
+
+        <TextView
+            android:id="@+id/textViesdsdsw9"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="1.Food Name"
+            android:textColor="@color/gray"
+            android:textSize="18sp"
+            tools:layout_editor_absoluteX="128dp"
+            tools:layout_editor_absoluteY="258dp" />
+
+        <TextView
+            android:id="@+id/textViedsdsw9"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="2.Description"
+            android:textColor="@color/gray"
+            android:textSize="18sp"
+            tools:layout_editor_absoluteX="129dp"
+            tools:layout_editor_absoluteY="347dp" />
+
+        <TextView
+            android:id="@+id/textsddsdView9"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="3.Quantity"
+            android:textSize="18sp"
+            android:textColor="@color/gray"
+            tools:layout_editor_absoluteX="121dp"
+            tools:layout_editor_absoluteY="303dp" />
+
+        <TextView
+            android:id="@+id/textVsdssdsddsiew9"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="4.Price"
+            android:textColor="@color/gray"
+            android:textSize="18sp"
+            tools:layout_editor_absoluteX="150dp"
+            tools:layout_editor_absoluteY="417dp" />
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/textVsdsddsdsiew9"
+        android:layout_width="364dp"
+        android:layout_height="51dp"
+        android:layout_marginTop="40dp"
+        android:text="Click the bellow Red Button to add a Food Item"
+        android:textAlignment="center"
+        android:textColor="@color/Red"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.489"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/linearLayout2" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
